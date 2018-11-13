@@ -1,0 +1,12 @@
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Infrastructure\bin\Debug\Infrastructure.dll.config
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Infrastructure\bin\Debug\Core.dll
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Infrastructure\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Infrastructure\bin\Debug\System.Data.Entity.dll
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Infrastructure\bin\Debug\Core.pdb
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Infrastructure\obj\Debug\Infrastructure.pdb

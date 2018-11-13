@@ -1,0 +1,8 @@
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Core\bin\Debug\Core.dll
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Core\bin\Debug\Core.pdb
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Core\obj\Debug\Core.dll
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Core\obj\Debug\Core.pdb
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Core\bin\Debug\Core.dll.config
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Core\bin\Debug\EntityFramework.dll
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Core\bin\Debug\EntityFramework.xml
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache

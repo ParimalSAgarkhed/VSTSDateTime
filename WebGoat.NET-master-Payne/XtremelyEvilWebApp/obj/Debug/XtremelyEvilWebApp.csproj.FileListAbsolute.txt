@@ -1,0 +1,6 @@
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\XtremelyEvilWebApp\bin\XtremelyEvilWebApp.dll
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\XtremelyEvilWebApp\bin\XtremelyEvilWebApp.pdb
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\XtremelyEvilWebApp\obj\Debug\XtremelyEvilWebApp.dll
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\XtremelyEvilWebApp\obj\Debug\XtremelyEvilWebApp.pdb
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\XtremelyEvilWebApp\bin\EntityFramework.dll
+C:\Users\IBM_ADMIN\Desktop\WebGoat.NET-master-Payne\XtremelyEvilWebApp\bin\EntityFramework.xml
