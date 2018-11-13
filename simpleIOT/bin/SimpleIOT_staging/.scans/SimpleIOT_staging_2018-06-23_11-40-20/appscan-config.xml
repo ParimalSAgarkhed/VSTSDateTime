@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Configuration>
+  <Targets>
+    <Target path="C:\simpleIOT\SimpleIOT_staging\out">
+      <CustomBuildInfo additional_classpath="C:/simpleIOT/SimpleIOT_staging/out;" jdk_path="" src_root="C:/simpleIOT/SimpleIOT_staging/_ozs/s1"/>
+    </Target>
+  </Targets>
+</Configuration>
